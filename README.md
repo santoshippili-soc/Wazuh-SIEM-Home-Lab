@@ -236,14 +236,6 @@ Wazuh-SIEM-Lab/
 
 ---
 
-## 👤 Author
-
-**Santosh Ippili**  
-B.Tech CSE (Cybersecurity) — VIT-AP University, 2025  
-EC-Council Certified SOC Analyst (CSA) | AWS Certified Cloud Practitioner  
-
----
-
 ## 📜 License
 
 This project is for **educational purposes only**. All credentials shown in this repository are placeholders. Never expose real passwords or agent keys in public repositories.
